@@ -1,4 +1,4 @@
-# Olympic-Rowing-Data
+# Olympic Rowing Data
 
 
 This program aims to visualize Olympic Rowing final times throught the Olympic Events. The data pulls from the Olympic Database, The New York Times, World Rowing and the Tokyo 2020 Olympics.
